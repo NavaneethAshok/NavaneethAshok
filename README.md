@@ -34,12 +34,6 @@
 - Compared AWS vs Snowflake for large-scale sentiment analysis.  
 **Tech Stack:** Python, AWS, Snowflake  
 
-### 🏋️‍♂️ [React Workout Tracker](https://github.com/NavaneethAshok/React-Workout-Tracker) *(January 2025)*  
-- Responsive fitness planner web app with daily workout schedules.  
-- User authentication & progress tracking.  
-- Deployed with Netlify.  
-**Tech Stack:** React.js, CSS, HTML  
-
 ### 📈 [Excel Retailer Dashboard](https://github.com/NavaneethAshok/Excel-Retailer-Dashboard) *(April 2024)*  
 - Created sales analysis dashboard with interactive features.  
 **Tech Stack:** Excel, Power Pivot  

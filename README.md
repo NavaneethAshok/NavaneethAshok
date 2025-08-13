@@ -6,7 +6,7 @@
 
 ---
 
-##  Skills  
+## ⚙️ Skills  
 
 **💻 Languages:**  
 

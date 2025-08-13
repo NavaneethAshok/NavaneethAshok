@@ -28,7 +28,7 @@
 
 ## 📂 Projects  
 
-### 📊 [Yelp Sentiment Analysis](https://github.com/NavaneethAshok/Yelp-Sentiment-Analysis) *(June 2025)*  
+### 📊 [Yelp Sentiment Analysis](https://github.com/NavaneethAshok/Yelp-Review-Data-Engineering.git) *(June 2025)*  
 - Built a sentiment classification system using Yelp review data in Python.  
 - Implemented a custom rule-based sentiment function.  
 - Compared AWS vs Snowflake for large-scale sentiment analysis.  

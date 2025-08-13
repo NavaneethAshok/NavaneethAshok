@@ -46,4 +46,6 @@
 
 ---
 
+## 🎓 Education 
+
 **🎓 B.Tech in Computer Science** – Lovely Professional University *(Aug 2022 – Present)* | CGPA: 7.8  

@@ -32,7 +32,7 @@
 - Built a sentiment classification system using Yelp review data in Python.  
 - Implemented a custom rule-based sentiment function.  
 - Compared AWS vs Snowflake for large-scale sentiment analysis.  
-**Tech Stack:** Python, AWS, Snowflake  
+**Tech Stack:** Python, AWS S3, Snowflake  
 
 ### 📈 [Excel Retailer Dashboard](https://github.com/NavaneethAshok/Excel-Retailer-Dashboard) *(April 2024)*  
 - Created sales analysis dashboard with interactive features.  
